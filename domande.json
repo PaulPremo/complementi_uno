@@ -1,0 +1,435 @@
+{
+    "1": {
+        "domanda": "Sistema afis raggiunge quanti matches per secondo?",
+        "risposte": [
+            "1 milione al secondo",
+            "10 milioni",
+            "Nessuna delle precedenti",
+            "100 milioni"
+        ],
+        "giusta": "100 milioni"
+    },
+    "2": {
+        "domanda": "Com'\u00e8 l'operatore del filtro di gabor per filtraggio delle impronte",
+        "risposte": [
+            "Coseno",
+            "Esponenziale decrescente",
+            "Nessuna delle precedenti",
+            "Coseno ed esponenziale decrescente"
+        ],
+        "giusta": "Coseno ed esponenziale decrescente"
+    },
+    "3": {
+        "domanda": "Come si calcola la distanza di Hamming se hai 2 iridi A e B con maschere mA e mB?",
+        "risposte": [
+            "A xor mA/xor",
+            "Nessuna delle precedenti"
+        ],
+        "giusta": "Nessuna delle precedenti"
+    },
+    "4": {
+        "domanda": "Caratteristiche lenti asferiche",
+        "risposte": [
+            "Meno costose",
+            "Riducono aberrazione sferica",
+            "Riducono aberrazione cromatica",
+            "Tutte le precedenti"
+        ],
+        "giusta": "Tutte le precedenti"
+    },
+    "5": {
+        "domanda": "Speech e speaker recognition sono",
+        "risposte": [
+            "Due cose uguali fatti con metodi biometrici simili",
+            "Due cose diverse con metodi biometrici simili",
+            "Due cose diverse fatte con metodi biometrici diversi"
+        ],
+        "giusta": "Due cose diverse fatte con metodi biometrici diversi"
+    },
+    "6": {
+        "domanda": "Cosa fa il max pooling",
+        "risposte": [
+            "Riduce dimensionalit\u00e0 delle immagini tra uno strato e l'altro",
+            "Nessuna delle precedenti"
+        ],
+        "giusta": "Riduce dimensionalit\u00e0 delle immagini tra uno strato e l'altro"
+    },
+    "7": {
+        "domanda": "Per cosa potrebbe essere usato un sistema biometrico basato su reti neurali",
+        "risposte": [
+            "Soft biometrics per et\u00e0",
+            "Qualit\u00e0 dell'iride",
+            "Classificazione impronte",
+            "Tutte le precedenti"
+        ],
+        "giusta": "Tutte le precedenti"
+    },
+    "8": {
+        "domanda": "Lenti liquide applicazioni commerciali",
+        "risposte": [
+            "Nessuna delle precedenti"
+        ],
+        "giusta": "Nessuna delle precedenti"
+    },
+    "9": {
+        "domanda": "Lenti macro vanno bene per",
+        "risposte": [
+            "Impronta",
+            "Palmo",
+            "Entrambe le precedenti"
+        ],
+        "giusta": "Entrambe le precedenti"
+    },
+    "10": {
+        "domanda": "Sistema AFIS",
+        "risposte": [
+            "preventive",
+            "giudiziarie",
+            "nessuna delle precedenti",
+            "preventive e giudiziarie"
+        ],
+        "giusta": "preventive e giudiziarie"
+    },
+    "11": {
+        "domanda": "Transfer learning",
+        "risposte": [
+            "Rifai allenamento totale",
+            "Non serve rifare allenamento",
+            "Rifai allenamento parziale"
+        ],
+        "giusta": "Rifai allenamento parziale"
+    },
+    "12": {
+        "domanda": "Iride va bene per sistema di riconoscimento bancario",
+        "risposte": [
+            "No perch\u00e9 \u00e8 complicato fare cose",
+            "No perch\u00e9 \u00e8 molto costoso",
+            "No perch\u00e9 non si pu\u00f2 fare matching veloce con grandi db",
+            "Nessuna delle precedenti"
+        ],
+        "giusta": "Nessuna delle precedenti"
+    },
+    "13": {
+        "domanda": "Riguardo la template selection basata su iride, pu\u00f2/possono essere utile/utili",
+        "risposte": [
+            "\u00c8 sempre possibile usare riconoscimento automatico del template",
+            "Pu\u00f2 essere usato un riconoscimento manuale del template"
+        ],
+        "giusta": "Pu\u00f2 essere usato un riconoscimento manuale del template"
+    },
+    "14": {
+        "domanda": "Quando fai data collection a livello biometrico rispetto alla privacy utente",
+        "risposte": [
+            "Non incide direttamente",
+            "Incide sulla privacy"
+        ],
+        "giusta": "Incide sulla privacy"
+    },
+    "15": {
+        "domanda": "AFIS come contrastare aliasing",
+        "risposte": [
+            "Con latent fingerprint",
+            "Nessuna delle precedenti",
+            "Con preventiva registrazione dei cartellini decadattilari"
+        ],
+        "giusta": "Con preventiva registrazione dei cartellini decadattilari"
+    },
+    "16": {
+        "domanda": "HDR serve a migliorare risoluzione",
+        "risposte": [
+            "Vero",
+            "Falso"
+        ],
+        "giusta": "Falso"
+    },
+    "17": {
+        "domanda": "HDR",
+        "risposte": [
+            "produce un range di luminanza simile a quello degli umani",
+            "informazioni zone chiare/scure",
+            "tutte le precedenti"
+        ],
+        "giusta": "tutte le precedenti"
+    },
+    "18": {
+        "domanda": "Con sistema di ML si pu\u00f2 definire una DET",
+        "risposte": [
+            "Falso",
+            "Vero"
+        ],
+        "giusta": "Vero"
+    },
+    "19": {
+        "domanda": "Hai DET e ROC, puoi dire che",
+        "risposte": [
+            "ROC=1-DET"
+        ],
+        "giusta": "ROC=1-DET"
+    },
+    "20": {
+        "domanda": "Se hai il risultato dei matching impostori e genuini, stai facendo",
+        "risposte": [
+            "Calcolo probabilit\u00e0",
+            "Nessuna delle precedenti",
+            "Inferenza statistica"
+        ],
+        "giusta": "Inferenza statistica"
+    },
+    "21": {
+        "domanda": "Se hai un'illuminazione improvvisa che difetto hai su CMS",
+        "risposte": [
+            "Spatial aliasing",
+            "Jello effect",
+            "Temporal aliasing"
+        ],
+        "giusta": "Temporal aliasing"
+    },
+    "22": {
+        "domanda": "Nei sistemi di videosorveglianza HDR",
+        "risposte": [
+            "Almeno 10 dB",
+            "Almeno 200 dB",
+            "Almeno 100 dB"
+        ],
+        "giusta": "Almeno 100 dB"
+    },
+    "23": {
+        "domanda": "Una camera con range dinamico 100 db pu\u00f2 essere usata per",
+        "risposte": [
+            "Impronte",
+            "Entrambe",
+            "Videosorveglianza"
+        ],
+        "giusta": "Videosorveglianza"
+    },
+    "24": {
+        "domanda": "Zoom ottico 10X, sensore 10Mpx e camera 100x100x100 qual \u00e8 il costo per farla",
+        "risposte": [
+            "Pi\u00f9 di 200 euro"
+        ],
+        "giusta": "Pi\u00f9 di 200 euro"
+    },
+    "25": {
+        "domanda": "I 10 bit per pixel rispetto agli 8 bit per pixel cosa permette",
+        "risposte": [
+            "Distinguere rumore e filtrarlo meglio"
+        ],
+        "giusta": "Distinguere rumore e filtrarlo meglio"
+    },
+    "26": {
+        "domanda": "Per fare videosorveglianza biometrica utilizzi",
+        "risposte": [
+            "Almeno 100mm per prendere pi\u00f9 dettagli",
+            "Teleobiettivo",
+            "Focale normale o leggermente pi\u00f9 lunga della videosorveglianza classica"
+        ],
+        "giusta": "Focale normale o leggermente pi\u00f9 lunga della videosorveglianza classica"
+    },
+    "27": {
+        "domanda": "Se chiudi il diaframma cosa succede",
+        "risposte": [
+            "Aumento campo di profondit\u00e0 e devo aumentare tempo di esposizione",
+            "Aumento il guadagno della sensibilit\u00e0",
+            "Campo di fuoco migliore ma entra meno luce"
+        ],
+        "giusta": "Campo di fuoco migliore ma entra meno luce"
+    },
+    "28": {
+        "domanda": "Con sensore 8 bit per pixel, 3 canali, quanti colori rappresenti",
+        "risposte": [
+            "Solo 256",
+            "Solo 16,7 milioni"
+        ],
+        "giusta": "Solo 16,7 milioni"
+    },
+    "29": {
+        "domanda": "Se chiudo diaframma cosa succede al palmo",
+        "risposte": [
+            "Aumento campo di profondit\u00e0 e devo aumentare tempo di esposizione",
+            "Aumento il guadagno della sensibilit\u00e0",
+            "Entrambe le precedenti",
+            "nessuna delle precedenti"
+        ],
+        "giusta": "Entrambe le precedenti"
+    },
+    "30": {
+        "domanda": "Reti neurali deep e speech recognition, stanno diventando efficaci",
+        "risposte": [
+            "Falso",
+            "Vero"
+        ],
+        "giusta": "Vero"
+    },
+    "31": {
+        "domanda": "Quando guardi impronte digitali e arrivi a un punto in cui un pixel \u00e8 0 e gli altri 1 (0=nero,1=bianco)",
+        "risposte": [
+            "Biforcazione",
+            "Fine riga"
+        ],
+        "giusta": "Fine riga"
+    },
+    "32": {
+        "domanda": "A che livello agisce fingercode",
+        "risposte": [
+            "Livello 1"
+        ],
+        "giusta": "Livello 1"
+    },
+    "33": {
+        "domanda": "Grey scale extraction",
+        "risposte": [
+            "Boh altro",
+            "immagini binarie",
+            "Immagini bianco e nero"
+        ],
+        "giusta": "Immagini bianco e nero"
+    },
+    "34": {
+        "domanda": "Identificazione match on card rimane tutto nella card e non esce niente fuori (\u00e8 sbagliata la domanda, \u00e8 autenticazione!)",
+        "risposte": [
+            "Sensore che si piega",
+            "Sensore diverso bla bla",
+            "Tutte le precedenti"
+        ],
+        "giusta": "Tutte le precedenti"
+    },
+    "35": {
+        "domanda": "CMC",
+        "risposte": [
+            "Applicata per autenticazione",
+            "Applicata per identificazione"
+        ],
+        "giusta": "Applicata per identificazione"
+    },
+    "36": {
+        "domanda": "Riconoscere quanti anni ha uno con le reti neurali",
+        "risposte": [
+            "Unsupervised",
+            "Supervised"
+        ],
+        "giusta": "Supervised"
+    },
+    "37": {
+        "domanda": "Reti neurali che imparano da esempi sono",
+        "risposte": [
+            "Deduttive",
+            "Induttive"
+        ],
+        "giusta": "Induttive"
+    },
+    "38": {
+        "domanda": "Esistono sistemi multimodali integrati su scala nazionale",
+        "risposte": [
+            "Falso",
+            "Vero"
+        ],
+        "giusta": "Vero"
+    },
+    "39": {
+        "domanda": "La teoria del rasoio di Occam",
+        "risposte": [
+            "\u00c8 una teoria classica che non pu\u00f2 essere applicata in biometria",
+            "\u00c8 una teoria che non c'entra un ca",
+            "\u00c8 una teoria classica che pu\u00f2 essere applicata ancora in biometria"
+        ],
+        "giusta": "\u00c8 una teoria classica che pu\u00f2 essere applicata ancora in biometria"
+    },
+    "40": {
+        "domanda": "Dispositivo con lenti asferiche",
+        "risposte": [
+            "Costa di pi\u00f9",
+            "\u00c8 pi\u00f9 economico rispetto a un sistema multi-lente"
+        ],
+        "giusta": "\u00c8 pi\u00f9 economico rispetto a un sistema multi-lente"
+    },
+    "41": {
+        "domanda": "Iride indoor",
+        "risposte": [
+            "Brandeggi per guidare utente",
+            "Per controllo accesso aeroporto",
+            "Entrambe le precedenti"
+        ],
+        "giusta": "Entrambe le precedenti"
+    },
+    "42": {
+        "domanda": "Cifratura",
+        "risposte": [
+            "Tipicamente hardware",
+            "Tipicamente trasformazioni",
+            "Nessuna delle precedenti",
+            "Tipicamente key binding e key qualcosa"
+        ],
+        "giusta": "Tipicamente key binding e key qualcosa"
+    },
+    "43": {
+        "domanda": "In un filtraggio adattativo contestuale una parte del filtro controlla la porzione di immagine in esame e adatta i parametri della maschera in base alla situazione locale",
+        "risposte": [
+            "Falso",
+            "Vero"
+        ],
+        "giusta": "Vero"
+    },
+    "44": {
+        "domanda": "I filtraggi adattativi sono applicati nelle impronte digitali per esaltare i ridge tenendo conto",
+        "risposte": [
+            "Del loro orientamento",
+            "Della loro distanza",
+            "Nessuna",
+            "Tutte le precedenti"
+        ],
+        "giusta": "Tutte le precedenti"
+    },
+    "45": {
+        "domanda": "I filtraggi adattativi maggiormente applicati per le impronte digitali sono i filtri di Moir\u00e8",
+        "risposte": [
+            "Vero",
+            "Falso"
+        ],
+        "giusta": "Falso"
+    },
+    "46": {
+        "domanda": "Uno dei filtraggi adattativi maggiormente applicati per le impronte digitali sono i filtri di Gabor",
+        "risposte": [
+            "Falso",
+            "Vero"
+        ],
+        "giusta": "Vero"
+    },
+    "47": {
+        "domanda": "Le feature di ridge counting sono considerate",
+        "risposte": [
+            "Livello 2",
+            "Livello 3",
+            "Di livello 1"
+        ],
+        "giusta": "Di livello 1"
+    },
+    "48": {
+        "domanda": "La scelta di una telecamera con doppio tempo di esposizione \u00e8 utile nei casi di soggetti che si muovono ad alta velocit\u00e0/si muovono e basta (IN MOVIMENTO)",
+        "risposte": [
+            "Vero",
+            "Falso"
+        ],
+        "giusta": "Falso"
+    },
+    "49": {
+        "domanda": "La scelta di una telecamera con doppio tempo di esposizione \u00e8 utile nei casi di pi\u00f9 soggetti FERMI",
+        "risposte": [
+            "Falso",
+            "Vero"
+        ],
+        "giusta": "Vero"
+    },
+    "50": {
+        "domanda": "Una gamma colore di un sensore per immagini di oltre 100dB \u00e8 utile in applicazioni",
+        "risposte": [
+            "Per impronte digitali a contatto",
+            "Nessuno dei due casi precedenti",
+            "Di videosorveglianza"
+        ],
+        "giusta": "Di videosorveglianza"
+    },
+    "totali": 347,
+    "fatte": [
+    ]
+}
